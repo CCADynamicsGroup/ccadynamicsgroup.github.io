@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            CCA Dynamics
+tagline:          'Galactic Dynamics in NYC'
+description:      'Galactic Dynamics at the <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics">CCA</a>'
+url:              https://galacticdynamics.nyc
+baseurl:          /
+
+author:
+  name:           'Adrian Price-Whelan'
+  url:            https://github.com/adrn
+
+paginate:         3
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
