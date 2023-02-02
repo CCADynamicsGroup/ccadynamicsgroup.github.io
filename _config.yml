@@ -7,7 +7,7 @@ remote_theme: fongandrew/hydeout
 permalink:        pretty
 
 # Setup
-title:            CCA Dynamics
+title:            CCA Galactic Dynamics
 tagline:          'Galactic Dynamics in NYC'
 description:      'Galactic Dynamics at the <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics">CCA</a>'
 url:              https://galacticdynamics.nyc
